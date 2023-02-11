@@ -17,8 +17,7 @@ public class FunWithShapes extends ShapeHandler {
     }
 
     public FunWithShapes() throws ShapeException {
-        super();
-        
+        super();        
         // test code
         /*
         ShapeDescription c = new ShapeDescription("circle 2.4");
